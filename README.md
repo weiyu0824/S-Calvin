@@ -1,5 +1,8 @@
-# Final Project
+# Calvin-implementation
+## Intro
+We implmented a calvin based on vanillaDB project. All of our implementations are in the folder `calvin`.
 
+# Final Project
 Let's implement a great distributed database architecture 'Calvin'.
 
 [Introduction](https://nthu-datalab.github.io/db/labs/introduction-final-project.pdf)
