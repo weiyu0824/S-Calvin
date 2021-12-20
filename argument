@@ -1,0 +1,22 @@
+Bench server
+
+Vm argument
+-Djava.util.logging.config.file=target/classes/java/util/logging/logging.properties
+-Dorg.vanilladb.core.config.file=target/classes/org/vanilladb/core/vanilladb.properties
+-Dorg.vanilladb.bench.config.file=target/classes/org/vanilladb/bench/vanillabench.properties
+-Dorg.vanilladb.comm.config.file=target/classes/org/vanilladb/comm/vanillacomm.properties
+
+Program Argument
+server0_DB
+0 (serverId)
+
+Bench client
+
+Vm argument
+-Djava.util.logging.config.file=target/classes/java/util/logging/logging.properties
+-Dorg.vanilladb.core.config.file=target/classes/org/vanilladb/core/vanilladb.properties
+-Dorg.vanilladb.bench.config.file=target/classes/org/vanilladb/bench/vanillabench.properties
+-Dorg.vanilladb.comm.config.file=target/classes/org/vanilladb/comm/vanillacomm.properties
+
+Program Argument
+1 or 2
