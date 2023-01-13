@@ -2,6 +2,7 @@
 ## Overview
 A simple version of calvin (determinstic distributed databse) implmentation based on vanillaDB project. All of our implementations are in the folder `calvin`.
 > This is a final project repository for NTHU/Database course
+- VanillaDB: https://github.com/vanilladb/vanillacore
 
 ## Architecture
 ![final-project-architecture.png](final-project-architecture.png)
